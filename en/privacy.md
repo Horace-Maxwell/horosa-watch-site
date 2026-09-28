@@ -5,7 +5,7 @@ permalink: /en/privacy/
 
 # Privacy Policy
 
-Last updated: 2026-09-14 · [简体中文](../../privacy)
+Last updated: 2026-09-25 · [简体中文](../../privacy)
 
 ## We collect nothing
 
@@ -13,20 +13,20 @@ Horosa for Apple Watch ("the App") does not collect, upload, or share any person
 
 ## Everything runs on your watch
 
-All almanac (黄历), BaZi (八字) and Da Liu Ren (六壬) calculations are performed locally on your Apple Watch. The App never connects to a server.
+All almanac (黄历), BaZi (八字), Da Liu Ren (六壬), Qi Men Dun Jia (奇门遁甲) and Liu Yao (六爻) calculations are performed locally on your Apple Watch. The App never connects to a server.
 
 ## Location
 
 Only when you tap "Use current location" in Settings does the App read your device location once. It is used solely to:
 
 - convert clock time to apparent solar time (by longitude);
-- decide day / night for Liu Ren nobles (by latitude).
+- decide day / night for the noble-person rules of Liu Ren and Qi Men (by latitude).
 
 Coordinates are stored only on the watch and never leave the device. You can revoke the permission at any time in Settings › Privacy & Security › Location Services; the App then estimates a location from the watch's time zone or uses a city you pick manually.
 
 ## Local storage
 
-Birth profiles you enter (name, birth time, birth place) and recent charts are stored only in the App's sandbox (UserDefaults) on the watch. Deleting the App deletes them completely. They are not synced to iCloud.
+Birth profiles you enter (name, birth time, birth place) and recent charts and hexagrams are stored only in the App's sandbox (UserDefaults) on the watch. Deleting the App deletes them completely. They are not synced to iCloud.
 
 ## Children
 

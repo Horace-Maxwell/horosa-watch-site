@@ -1,6 +1,6 @@
 # 星阙 Horosa · Apple Watch 版
 
-黄历 · 八字 · 六壬，完全离线运行于 Apple Watch。
+黄历 · 八字 · 六壬 · 奇门 · 六爻，完全离线运行于 Apple Watch。
 
 - [隐私政策（简体中文）](privacy)
 - [Privacy Policy (English)](en/privacy)
